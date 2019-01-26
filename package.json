@@ -1,8 +1,11 @@
 {
   "name": "dhilipkmr",
-  "version": "1.0.0",
+  "version": "1.0.5",
   "description": "A personal card",
-  "main": "/bin/card.js",
+  "main": "./bin/card.js",
+  "bin": {
+    "dhilipkmr": "./bin/card.js"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/bnb/bitandbang.git"

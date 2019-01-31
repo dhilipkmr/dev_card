@@ -20,7 +20,7 @@ const data = {
   github: chalk.green('https://github.com/dhilipkmr'),
   linkedin: chalk.cyan('https://linkedin.com/in/dhilipkmr'),
   medium: chalk.hex('#adadad')(' https://medium.com/@dhilipkmr'),
-  npm: chalk.red('https://www.npmjs.com/~dhilipkmr'),
+  npm: chalk.red(' https://www.npmjs.com/~dhilipkmr'),
   web: chalk.hex('#cbdc00')(' https://dhilipkmr.surge.sh'),
   labelWork: chalk.white.bold('       Work:'),
   labelGitHub: chalk.white.bold('     GitHub:'),

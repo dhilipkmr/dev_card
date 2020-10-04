@@ -15,8 +15,8 @@ const options = {
 
 // Text + chalk definitions
 const data = {
-  name: chalk.white.bold('                     DHILIP KUMAR'),
-  work: chalk.hex('#be8d30')('UI Dev ') +  chalk.white('@ ') + chalk.hex('#f26722')('go') + chalk.hex('#2C67B3')('ibibo'),
+  name: chalk.white.bold('                     Dhilip Kumar'),
+  work: chalk.hex('#be8d30')('Software Engineer') + chalk.white(' @ ') + chalk.hex('#f35325')('Mi') + chalk.hex('#81bc09')('cro') + chalk.hex('#07a6f0')('so') + chalk.hex('#ffba12')('ft'),
   github: chalk.green('https://www.github.com/dhilipkmr'),
   linkedin: chalk.cyan('https://www.linkedin.com/in/dhilipkmr'),
   blog: chalk.hex('#adadad')(' https://www.dev.to/dhilipkmr'),

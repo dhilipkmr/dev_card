@@ -4,5 +4,5 @@ Creating a Named Card NPM module
 
 # npx dhilipkmr
 <p align="center">
-   <img src="https://raw.githubusercontent.com/dhilipkmr/webapp-samples/master/images/dev_card/dev_card.png" height:200 title="Dev card" alt="dev card image"/>
+   <img src="https://github.com/dhilipkmr/webapp-samples/raw/master/images/dev_card/Ms.png" height:200 title="Dev card" alt="dev card image"/>
 </p>
